@@ -1,0 +1,2 @@
+import React from 'react'
+export default function SectionTitle({eyebrow,title,copy,light=false}){return <div className={`section-title ${light?'light':''}`}><span className="eyebrow">{eyebrow}</span><h2>{title}</h2>{copy&&<p>{copy}</p>}</div>}

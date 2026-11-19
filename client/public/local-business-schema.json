@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "AutoWash"
+  ],
+  "name": "Reliable Car Wash & Detailing",
+  "image": "https://www.reliablecarwashil.com/images/reliable-logo.png",
+  "telephone": "+1-000-000-0000",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Illinois"
+  },
+  "url": "https://www.reliablecarwashil.com",
+  "description": "Car wash and auto detailing services serving Illinois."
+}
